@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasonAwoyera
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any type of programming projects 
 - 📫 How to reach me Jason.Awoyera@icloud.com
